@@ -1,0 +1,10 @@
+.env
+db.sqlite3
+db.sqlite3-journal
+logs/*
+*.py[co]
+__pycache__
+!.gitkeep
+.idea
+build
+test.py
